@@ -28,7 +28,10 @@ public class Crossbrowser2 {
     
     String browser = pro.getProperty("browser");
     System.out.println(browser);
-    
+    System.out.println("1");
+    System.out.println("2");
+    System.out.println("3");
+
     if (browser.equalsIgnoreCase("chrome")) 
     
     {
